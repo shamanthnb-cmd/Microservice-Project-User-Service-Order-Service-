@@ -1,4 +1,5 @@
 image:
-  repository: myacr.azurecr.io/user-service
+  repository: user-service
   tag: latest
+  pullPolicy: Never
   port: 5001
