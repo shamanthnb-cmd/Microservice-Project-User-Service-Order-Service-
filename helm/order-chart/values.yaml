@@ -1,0 +1,4 @@
+image:
+  repository: myacr.azurecr.io/order-service
+  tag: latest
+  port: 5002
