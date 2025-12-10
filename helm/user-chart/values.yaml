@@ -1,0 +1,4 @@
+image:
+  repository: myacr.azurecr.io/user-service
+  tag: latest
+  port: 5001
