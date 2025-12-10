@@ -1,5 +1,6 @@
 image:
   repository: order-service
-  tag: latest
+  tag: v1
   pullPolicy: Never
   port: 5002
+
